@@ -2,6 +2,9 @@
 
 Visualize word embeddings from PDF documents. Dive deep into relationships, similarities, and clusterings of words from your textual content.
 
+locally
+
+
 ![Word Embedding Visualization](images/user_interface.png) 
 <!-- Replace the above link with an actual screenshot or logo link -->
 
@@ -22,27 +25,27 @@ Visualize word embeddings from PDF documents. Dive deep into relationships, simi
 
 ### Prerequisites
 
-Ensure Python is installed along with necessary libraries like Streamlit, Gensim, Plotly, Matplotlib, etc.
+Ensure Python is installed along with necessary libraries. The list of required libraries can be found in the 
 
 ### Installation & Running
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/themisdx/embeddings_app.git
+```
 
 2. Navigate to the directory:
 
-  ```bash
+```bash
   cd path/to/directory
- ```
-
+```
 
 3. Run the Streamlit app:
   
-  ```bash
+```bash
   streamlit run app.py
- ```
+```
 
 ## 🙌 Contribute
 Feel the need for an extra feature or want to fix a bug? Open an issue or send us a pull request. Contributions are more than welcome!
