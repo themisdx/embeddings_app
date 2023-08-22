@@ -23,7 +23,7 @@ if uploaded_files:
         display_matplotlib_embeddings(model, focus_word, num_similar_words)
 
         # Display the embeddings
-        st.write("### Embeddings with Plotly")
+        st.write("### Embeddings with 150 most similar words")
         display_plotly_embeddings(model, focus_word)
 
         # Display the word cloud
