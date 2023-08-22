@@ -2,7 +2,7 @@
 
 Visualize word embeddings from PDF documents. Dive deep into relationships, similarities, and clusterings of words from your textual content.
 
-locally
+There are two ways to make use of the designed word embeddings visualisation tool. You can access and use the app directly through this [link](https://embeddings.streamlit.app/) or you can run it locally by downloading the github repository and setting it up to your PC. The repository contains the 
 
 
 ![Word Embedding Visualization](images/user_interface.png) 
