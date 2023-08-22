@@ -28,9 +28,8 @@ Ensure Python is installed along with necessary libraries like Streamlit, Gensim
 
 1. Clone the repository:
 
-    ```bash
+   ```bash
    git clone <repository_url>
- ```
 
 2. Navigate to the directory:
 
