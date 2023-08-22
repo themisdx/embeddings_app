@@ -29,7 +29,7 @@ Ensure Python is installed along with necessary libraries like Streamlit, Gensim
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/themisdx/embeddings_app.git
 
 2. Navigate to the directory:
 
