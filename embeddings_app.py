@@ -5,7 +5,7 @@ from visualisations import display_plotly_embeddings, display_matplotlib_embeddi
 
 # Embeddings App
 st.title('Word Embeddings Visualization App')
-
+st.subheader('by Themis Dimitra Xanthopoulou')
 uploaded_files = st.file_uploader("Upload PDFs", type=["pdf"], accept_multiple_files=True)
 
 if uploaded_files:
