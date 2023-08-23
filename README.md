@@ -4,7 +4,7 @@ Visualize word embeddings from PDF documents. Dive deep into relationships, simi
 
 There are two ways to make use of the designed word embeddings visualization tool:
 
--**Cloud Access**: You can directly use the app by accessing this link. This link takes you to the app hosted on Streamlit, a platform for turning Python scripts into interactive web apps. Please note that the cloud version might have some storage limitations.
+-**Cloud Access**: You can directly use the app by accessing this link. This link takes you to the app hosted on Streamlit, a platform for turning Python scripts into interactive web apps. Please note that the cloud version has some storage limitations.
 
 -**Local Setup**: For a more personalized experience without limitations, you can run the app locally. To do this, download the GitHub repository and set it up on your PC. This repository contains all the necessary code, including the app design, word embeddings algorithms, and the visualization component.
 
@@ -31,7 +31,7 @@ Below is a screenshot showcasing an example from the app and one aspect of the v
 
 ### Prerequisites
 
-Ensure Python is installed along with necessary libraries. The list of required libraries can be found in the 
+For local setup, ensure you have Python installed along with the necessary libraries. The list of required libraries can be found in the requirements.txt file. The repository was built using Python 3.11.4. To avoid conflicts with other Python projects and ensure consistent behavior, it's recommended to set up and use a Python virtual environment.
 
 ### Installation & Running
 
