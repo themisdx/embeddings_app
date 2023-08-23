@@ -31,7 +31,7 @@ Below is a screenshot showcasing an example from the app and one aspect of the v
 
 ### Prerequisites
 
-For local setup, ensure you have Python installed along with the necessary libraries. The list of required libraries can be found in the requirements.txt file. The repository was built using Python 3.11.4. To avoid conflicts with other Python projects and ensure consistent behavior, it's recommended to set up and use a Python virtual environment.
+For local setup, ensure you have Python installed along with the necessary libraries. The repository was built using Python 3.11.4. To avoid conflicts with other Python projects and ensure consistent behavior, it's recommended to set up and use a Python virtual environment.
 
 ### Installation & Running
 
@@ -65,6 +65,11 @@ source venv/bin/activate
   pip install -r requirements.txt
 ```
 
+4. Run the app:
+
+```bash
+streamlit run embeddings_app.py
+```
 
 ## 🙌 Contribute
 Feel the need for an extra feature or want to fix a bug? Open an issue or send us a pull request. Contributions are more than welcome!
