@@ -2,11 +2,17 @@
 
 Visualize word embeddings from PDF documents. Dive deep into relationships, similarities, and clusterings of words from your textual content.
 
-There are two ways to make use of the designed word embeddings visualisation tool. You can access and use the app directly through this [link](https://embeddings.streamlit.app/) or you can run it locally by downloading the github repository and setting it up to your PC. The repository contains the 
+There are two ways to make use of the designed word embeddings visualization tool:
+
+Cloud Access: You can directly use the app by accessing this link. This link takes you to the app hosted on Streamlit, a platform for turning Python scripts into interactive web apps. Please note that the cloud version might have some storage limitations.
+
+Local Setup: For a more personalized experience without limitations, you can run the app locally. To do this, download the GitHub repository and set it up on your PC. This repository contains all the necessary code, including the app design, word embeddings algorithms, and the visualization component.
+
+Below is a screenshot showcasing an example from the app:
 
 
 ![Word Embedding Visualization](images/user_interface.png) 
-<!-- Replace the above link with an actual screenshot or logo link -->
+
 
 ## 🌟 Features
 
