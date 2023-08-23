@@ -41,17 +41,30 @@ For local setup, ensure you have Python installed along with the necessary libra
    git clone https://github.com/themisdx/embeddings_app.git
 ```
 
-2. Navigate to the directory:
+2. Set up a Python Virtual Environment (Recommended):
 
 ```bash
-  cd path/to/directory
+  python -m venv venv
 ```
 
-3. Run the Streamlit app:
+And activate for Windows:
+
+```bash
+  venv\Scripts\activate
+```
+
+For macOS and Linux:
+
+```bash
+source venv/bin/activate
+```
+
+3. Install the Necessary Libraries:
   
 ```bash
-  streamlit run app.py
+  pip install -r requirements.txt
 ```
+
 
 ## 🙌 Contribute
 Feel the need for an extra feature or want to fix a bug? Open an issue or send us a pull request. Contributions are more than welcome!
