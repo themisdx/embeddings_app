@@ -8,8 +8,7 @@ There are two ways to make use of the designed word embeddings visualization too
 
 -**Local Setup**: For a more personalized experience without limitations, you can run the app locally. To do this, download the GitHub repository and set it up on your PC. This repository contains all the necessary code, including the app design, word embeddings algorithms, and the visualization component.
 
-Below is a screenshot showcasing an example from the app and one aspect of the visualised results:
-
+Please take a moment to watch this concise tutorial (less than 1 minute) available at this [link](https://youtu.be/cfN9EOekW3w). It will provide you with a quick understanding of the app's functionality. The screenshot below that highlights a practical example from the app focusing on a specific aspect of the visualized results:
 
 ![Word Embedding Visualization](images/user_interface.png) 
 
